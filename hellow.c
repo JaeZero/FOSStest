@@ -2,8 +2,9 @@
 	
 int main()
 {
-	printf("hi");
-	
+	printf("hi\n");
+	printf("HI~yong\n");
+
 	return 0;
 }
 
